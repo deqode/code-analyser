@@ -6,8 +6,8 @@ sidebar_position: 2
 
 ## Clone the repo 
 ```
-git clone https://github.com/deqodelabs/code-analyser
-cd code-analyser
+git clone https://github.com/deqode/CodeAnalyser
+cd CodeAnalyser
 ```
 
 
